@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    color:goldenrod;
+    text-align: center;
+}
+body {
+    background-image: url(modern-1.jpg);
+    background-size: cover;
+}
+section{
+    text-align: center;
+    font-size: 25px;
+    
+}
+.info{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.class{
+ background-color: brown;;
+}

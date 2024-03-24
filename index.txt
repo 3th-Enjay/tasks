@@ -1,0 +1,8 @@
+*what is utf-8
+
+utf-8 is a unicode character set which allows caharacter encoding of variable-length 1-4 byte.. it is compatible with ASCII and the preferred encoding for webpages and emails. it is one of themost popular encodinfg sysytems 
+
+*uses
+
+it lets the user represent characters of ASCII text while still allowing for international characters such as chinese
+it is also easy to integrate with existing systems and protocols that use ASCII such as HTTP, HTML XML JSON and CSS.
